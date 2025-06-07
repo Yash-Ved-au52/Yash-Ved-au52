@@ -1,11 +1,46 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-I'm **Yash Ved**, a MERN Stack Developer passionate about building scalable and efficient web applications. Currently, I’m looking for new job opportunities to apply my skills and continue growing as a developer.
+###
 
-- 🔭 I’m currently working on projects like **Skill Development Marketplace** and **Interactive Roadmap Builder**.
-- 🌱 I’m currently learning **AI basics** to diversify my knowledge and enhance my development expertise.
-- 👯 I’m looking to collaborate on **open-source projects** and **full-stack web development** challenges.
-- 🤔 I’m open to new job opportunities in **MERN stack development** and **front-end development**.
-- 💬 Ask me about **MERN Stack**, **React**, **Node.js**, **JavaScript**, and **web development best practices**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yash-ved-05b694231/) | Email: yashved@email.com
-- 😄 Fun fact: When I’m not coding, I enjoy exploring new tech, playing games, and learning about AI!
+<p align="left">My name is Yash Ved and I'm a MERN Stack Developer from Bhawani Mandi, Rajasthan 🇮🇳</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">
+✨ Creating bugs since 2022<br>
+📚 I'm currently learning: Python & AI basics<br>
+🎯 Goals: Build smart, scalable web applications and land a remote MERN stack role<br>
+🎲 Fun fact: I love debugging more than coding sometimes!
+</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
+</div>
